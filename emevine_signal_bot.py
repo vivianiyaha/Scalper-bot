@@ -122,6 +122,7 @@ PAIR_MAP = {
     "EUR/USD": "EURUSD=X",
     "GBP/USD": "GBPUSD=X",
     "AUD/USD": "AUDUSD=X",
+    "GBP/JPY": "GBPJPY=X",
 }
 pair_label = st.sidebar.selectbox("Currency Pair", list(PAIR_MAP.keys()), index=0)
 ticker = PAIR_MAP[pair_label]
