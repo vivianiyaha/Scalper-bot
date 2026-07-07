@@ -137,6 +137,7 @@ PAIRS = {
     "EUR/GBP": "EURGBP=X",
     "EUR/JPY": "EURJPY=X",
     "GBP/JPY": "GBPJPY=X",
+    "GBP/CHF": "GBPCHF=X",
     "AUD/JPY": "AUDJPY=X",
     "EUR/AUD": "EURAUD=X",
     "XAU/USD (Gold)": "GC=F",
