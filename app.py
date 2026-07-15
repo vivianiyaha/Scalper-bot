@@ -142,6 +142,7 @@ PAIRS = {
     "EUR/CAD": "EURCAD=X",
     "GBP/USD": "GBPUSD=X",
     "CAD/CHF": "CADCHF=X",
+    "GBP/CAD": "GBPCAD=X",
     "AUD/NZD": "AUDNZD=X",
     "AUD/CHF": "AUDCHF=X",
     "EUR/AUD": "EURAUD=X",
