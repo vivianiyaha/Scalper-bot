@@ -131,6 +131,7 @@ PAIRS = {
     "GBP/USD": "GBPUSD=X",
     "USD/JPY": "USDJPY=X",
     "USD/CHF": "USDCHF=X",
+    "CHF/JPY": "CHFJPY=X",
     "AUD/USD": "AUDUSD=X",
     "USD/CAD": "USDCAD=X",
     "NZD/USD": "NZDUSD=X",
