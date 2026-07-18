@@ -150,6 +150,11 @@ PAIRS = {
     "XAU/USD (Gold)": "GC=F",
     "XAG/USD (Silver)": "SI=F",
     "BTC/USD": "BTC-USD",
+    "ETH/USD": "ETH-USD",
+    "XLM/USD": "XLM-USD",
+    "XRP/USD": "XRP-USD",
+    "LTC/USD": "LTC-USD",
+    "ADA/USD": "ADA-USD",
     "Custom (type Yahoo ticker)": None,
 }
 
